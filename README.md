@@ -1,8 +1,11 @@
 # Gesture-Controlled-Virtual-Mouse
-## Nama: Krisna Dwi Nurikhsani
-## NIM: 2008610
-## Kelas: PTE Elind-20
-## Mata Kuliah: Visi Komputer
+Nama: Krisna Dwi Nurikhsani
+
+NIM: 2008610
+
+Kelas: PTE Elind-20
+
+Mata Kuliah: Visi Komputer
 
 # Inovasi Gesture Controlled Virtual Mouse: Mengoptimalkan Interaksi Manusia dengan Komputer melalui Gerakan Tangan. 
 Gesture Controlled Virtual Mouse adalah sebuah solusi yang dirancang untuk mempermudah interaksi antara manusia dengan komputer melalui penggunaan gerakan tangan. Dengan menggunakan teknologi ini, komputer dapat dikendalikan secara virtual tanpa perlu kontak langsung. Semua operasi input/output dapat dikontrol melalui gerakan tangan statis dan dinamis.
