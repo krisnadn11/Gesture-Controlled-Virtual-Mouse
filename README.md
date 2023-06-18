@@ -1,4 +1,4 @@
-# Krisna_Mouse Virtual &nbsp;[![](https://img.shields.io/badge/python-3.8.5-blue.svg)](https://www.python.org/downloads/) [![platform](https://img.shields.io/badge/platform-windows-green.svg)](https://github.com/krisnadn11/Gesture-Controlled-Virtual-Mouse) 
+# Krisnadn_Mouse Virtual &nbsp;[![](https://img.shields.io/badge/python-3.8.5-blue.svg)](https://www.python.org/downloads/) [![platform](https://img.shields.io/badge/platform-windows-green.svg)](https://github.com/krisnadn11/Gesture-Controlled-Virtual-Mouse) 
 
 Nama: Krisna Dwi Nurikhsani
 
