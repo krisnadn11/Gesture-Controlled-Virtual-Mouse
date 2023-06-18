@@ -81,7 +81,7 @@ _Klik dropdown untuk melihat fitur pada proyek yang telah saya buat_ <br>
 ### Prasyarat
 
 Python: (3.6 - 3.8.5)<br>
-Distribusi Anaconda: Untuk mengunduh, klik [ di sini ](https://www.anaconda.com/products/individual).
+Install Anaconda: Untuk mengunduhnya, klik [ di sini ](https://www.anaconda.com/products/individual).
 
 Unduh dan ekstrak folder yang bernama Virtual-Mouse-main, kemudian buka folder tersebut di VsCode, buka terminal dan pastikan terkonfigurasi dengan PowerShell bukan Command Prompt
 
@@ -106,7 +106,7 @@ Unduh dan ekstrak folder yang bernama Virtual-Mouse-main, kemudian buka folder t
   ```
   cd src
   ```
-  Change Directory ke src. Perintah mungkin terlihat seperti: `cd C:\Users\.....\Virtual-Mouse\src>`
+  Ubah directory ke src. Perintah mungkin akan terlihat seperti: `cd C:\Users\.....\Virtual-Mouse\src>`
   
   
   Langkah 5:
