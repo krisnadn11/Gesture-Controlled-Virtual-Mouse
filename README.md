@@ -19,65 +19,62 @@ _Klik dropdown untuk melihat fitur pada proyek yang telah saya buat_ <br>
 ### Pengenalan Gerakan
 <details>
 <summary>Gerakan Netral</summary>
-
   <img src="https://github.com/krisnadn11/Gesture-Controlled-Virtual-Mouse/blob/main/Demo%20Proyek%20Visi%20Komputer/Gerakan%20Netral.gif" alt="Gerakan Netral" width="771" height="400"><br>
-  <figcaption>Gerakan Netral. Digunakan untuk menahan atau menghentikan eksekusi gerakan saat ini.</figcaption>
-
+  <figcaption>Gerakan Netral, digunakan untuk menahan atau menghentikan eksekusi gerakan saat ini.</figcaption>
 </details>
  
-
 <details>
 <summary>Memindahkan Kursor</summary>
-  <img src="https://github.com/xenon-19/Gesture_Controller/blob/e20edfb1f368ffa600d96bd91031942ec97cb2ab/demo_media/move%20mouse.gif" alt="Move Cursor" width="711" height="400"><br>
-  <figcaption>Cursor is assigned to the midpoint of index and middle fingertips. This gesture moves the cursor to the desired location. Speed of the cursor movement is proportional to the speed of hand.</figcaption>
+  <img src="https://github.com/krisnadn11/Gesture-Controlled-Virtual-Mouse/blob/main/Demo%20Proyek%20Visi%20Komputer/Memindahkan%20Kursor.gif" alt="Memindahkan Kursor" width="711" height="400"><br>
+  <figcaption>Kursor ditetapkan ke titik tengah telunjuk dan ujung jari tengah. Gerakan ini memindahkan kursor ke lokasi yang diinginkan. Kecepatan gerakan kursor kurang lebih sebanding dengan kecepatan tangan.</figcaption>
 </details>
 
 <details>
 <summary>Klik Kiri</summary>
-<img src="https://github.com/xenon-19/Gesture_Controller/blob/9be82cfc75aa4c04fff0e12dd4de853f9d83a101/demo_media/left%20click.gif" alt="Left Click" width="711" height="400"><br>
- <figcaption>Gesture for single left click</figcaption>
+<img src="https://github.com/krisnadn11/Gesture-Controlled-Virtual-Mouse/blob/main/Demo%20Proyek%20Visi%20Komputer/Klik%20Kiri.gif" alt="Klik Kiri" width="711" height="400"><br>
+ <figcaption>Gerakan untuk sekali klik kiri</figcaption>
 </details>
 
 <details>
 <summary>Klik Kanan</summary>
-<img src="https://github.com/xenon-19/Gesture_Controller/blob/9be82cfc75aa4c04fff0e12dd4de853f9d83a101/demo_media/right%20click.gif" alt="Right Click" width="711" height="400"><br>
- <figcaption>Gesture for single right click</figcaption>
+<img src="https://github.com/krisnadn11/Gesture-Controlled-Virtual-Mouse/blob/main/Demo%20Proyek%20Visi%20Komputer/Klik%20Kanan.gif" alt="Klik Kanan" width="711" height="400"><br>
+ <figcaption>Gerakan untuk sekali klik kanan</figcaption>
 </details>
 
 <details>
 <summary>Klik 2x</summary>
-<img src="https://github.com/xenon-19/Gesture_Controller/blob/9be82cfc75aa4c04fff0e12dd4de853f9d83a101/demo_media/double%20click.gif" alt="Double Click" width="711" height="400"><br>
- <figcaption>Gesture for double click</figcaption>
+<img src="https://github.com/krisnadn11/Gesture-Controlled-Virtual-Mouse/blob/main/Demo%20Proyek%20Visi%20Komputer/Klik%202x.gif" alt="Klik 2x" width="711" height="400"><br>
+ <figcaption>Gerakan untuk klik kiri 2x</figcaption>
 </details>
 
 <details>
 <summary>Seret dan Lepas V1</summary>
-<img src="https://github.com/xenon-19/Gesture_Controller/blob/9be82cfc75aa4c04fff0e12dd4de853f9d83a101/demo_media/Scrolling.gif" alt="Scrolling" width="711" height="400"><br>
- <figcaption>Dynamic Gestures for horizontal and vertical scroll. The speed of scroll is proportional to the distance moved by pinch gesture from start point. Vertical and Horizontal scrolls are controlled by vertical and horizontal pinch movements respectively.</figcaption>
+<img src="https://github.com/krisnadn11/Gesture-Controlled-Virtual-Mouse/blob/main/Demo%20Proyek%20Visi%20Komputer/Seret%20dan%20Lepas%20V1.gif" alt="Seret dan Lepas V1" width="711" height="400"><br>
+ <figcaption>Gerakan fungsional untuk seret dan lepas. Dapat digunakan dalam menyeret/memindahkan file dari satu folder ke folder lainnya</figcaption>
 </details>
 
 <details>
 <summary>Seret dan Lepas V2</summary>
-<img src="https://github.com/xenon-19/Gesture_Controller/blob/9be82cfc75aa4c04fff0e12dd4de853f9d83a101/demo_media/drag%20and%20drop.gif" alt="Drag and Drop" width="711" height="400"><br>
- <figcaption>Gesture for drag and drop functionality. Can be used to move/tranfer files from one directory to other.</figcaption>
+<img src="https://github.com/krisnadn11/Gesture-Controlled-Virtual-Mouse/blob/main/Demo%20Proyek%20Visi%20Komputer/Seret%20dan%20Lepas%20V2.gif" alt="Seret dan Lepas V2" width="711" height="400"><br>
+ <figcaption>Tidak jauh beda seperti gerakan sebelumnya, namun gerakan ini lebih mudah saat dipraktikan.</figcaption>
 </details>
 
 <details>
 <summary>Memilih Beberapa Item</summary>
-<img src="https://github.com/xenon-19/Gesture_Controller/blob/9be82cfc75aa4c04fff0e12dd4de853f9d83a101/demo_media/multiple%20item%20selection.gif" alt="Multiple Item Selection" width="711" height="400"><br>
- <figcaption>Gesture to select multiple items</figcaption>
+<img src="https://github.com/krisnadn11/Gesture-Controlled-Virtual-Mouse/blob/main/Demo%20Proyek%20Visi%20Komputer/Memilih%20Beberapa%20File.gif" alt="Memilih Beberapa File" width="711" height="400"><br>
+ <figcaption>Gerakan untuk memilih beberapa file</figcaption>
 </details>
 
 <details>
 <summary>Kontrol Volume</summary>
-<img src="https://github.com/xenon-19/Gesture_Controller/blob/9be82cfc75aa4c04fff0e12dd4de853f9d83a101/demo_media/Volume%20control.gif" alt="Volume Control" width="711" height="400"><br>
- <figcaption>Dynamic Gestures for Volume control. The rate of increase/decrease of volume is proportional to the distance moved by pinch gesture from start point. </figcaption>
+<img src="https://github.com/krisnadn11/Gesture-Controlled-Virtual-Mouse/blob/main/Demo%20Proyek%20Visi%20Komputer/Kontrol%20Volume.gif" alt="Kontrol Volume" width="711" height="400"><br>
+ <figcaption>Gerakan Dinamis untuk kontrol Volume. Laju kenaikan/penurunan volume sebanding dengan jarak yang dipindahkan oleh gerakan mencubit dari titik awal. </figcaption>
 </details>
 
 <details>
 <summary>Kontrol Kecerahan Layar</summary>
-<img src="https://github.com/xenon-19/Gesture_Controller/blob/9be82cfc75aa4c04fff0e12dd4de853f9d83a101/demo_media/Brigntness%20Control.gif" alt="Brightness Control" width="711" height="400"><br>
- <figcaption>Dynamic Gestures for Brightness control. The rate of increase/decrease of brightness is proportional to the distance moved by pinch gesture from start point. </figcaption>
+<img src="https://github.com/krisnadn11/Gesture-Controlled-Virtual-Mouse/blob/main/Demo%20Proyek%20Visi%20Komputer/Kontrol%20Kecerahan%20Layar.gif" alt="Kontrol Kecerahan Layar" width="711" height="400"><br>
+ <figcaption>Gerakan Dinamis untuk kontrol Kecerahan. Laju peningkatan/penurunan kecerahan sebanding dengan jarak yang dipindahkan oleh gerakan mencubit dari titik awal. </figcaption>
 </details>
 
 # Cara Menggunakannya
