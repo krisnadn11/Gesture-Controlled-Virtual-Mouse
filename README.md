@@ -103,8 +103,14 @@ Dan kemudian Buka Folder Virtual-Mouse di VsCode.
   ```
   
   Langkah 4:
-  cd ke src menggunakan code: cd src
-  Perintah mungkin terlihat seperti: `cd C:\Users\.....\Virtual-Mouse\src>
+  ```
+  cd src
+  ```
+  Change Directory ke src. Perintah mungkin terlihat seperti: `cd C:\Users\.....\Virtual-Mouse\src>`
+  
+  Langkah 5:
+  
+  Untuk menjalankan Virtual Mouse:
   ```bash 
   python Virtual_Mouse.py
   ```
