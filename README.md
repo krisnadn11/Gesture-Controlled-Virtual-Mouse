@@ -20,7 +20,7 @@ _Klik dropdown untuk melihat fitur pada proyek yang telah saya buat_ <br>
 <details>
 <summary>Gerakan Netral</summary>
  <figure>
-  <img src="[https://github.com/krisnadn11/Gesture-Controlled-Virtual-Mouse/blob/main/Demo%20Proyek/Gerakan%20Netral.PNG]" alt="Palm" width="711" height="400"><br>
+  <img src="https://github.com/krisnadn11/Gesture-Controlled-Virtual-Mouse/blob/main/Demo%20Proyek/Gerakan%20Netral.PNG" alt="Gerakan Netral" width="711" height="400"><br>
   <figcaption>Neutral Gesture. Used to halt/stop execution of current gesture.</figcaption>
 </figure>
 </details>
