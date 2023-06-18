@@ -51,13 +51,13 @@ _Klik dropdown untuk melihat fitur pada proyek yang telah saya buat_ <br>
 </details>
 
 <details>
-<summary>Menggulir</summary>
+<summary>Seret dan Lepas V1</summary>
 <img src="https://github.com/xenon-19/Gesture_Controller/blob/9be82cfc75aa4c04fff0e12dd4de853f9d83a101/demo_media/Scrolling.gif" alt="Scrolling" width="711" height="400"><br>
  <figcaption>Dynamic Gestures for horizontal and vertical scroll. The speed of scroll is proportional to the distance moved by pinch gesture from start point. Vertical and Horizontal scrolls are controlled by vertical and horizontal pinch movements respectively.</figcaption>
 </details>
 
 <details>
-<summary>Seret dan Lepas</summary>
+<summary>Seret dan Lepas V2</summary>
 <img src="https://github.com/xenon-19/Gesture_Controller/blob/9be82cfc75aa4c04fff0e12dd4de853f9d83a101/demo_media/drag%20and%20drop.gif" alt="Drag and Drop" width="711" height="400"><br>
  <figcaption>Gesture for drag and drop functionality. Can be used to move/tranfer files from one directory to other.</figcaption>
 </details>
@@ -69,7 +69,7 @@ _Klik dropdown untuk melihat fitur pada proyek yang telah saya buat_ <br>
 </details>
 
 <details>
-<summary>kontrol Volume</summary>
+<summary>Kontrol Volume</summary>
 <img src="https://github.com/xenon-19/Gesture_Controller/blob/9be82cfc75aa4c04fff0e12dd4de853f9d83a101/demo_media/Volume%20control.gif" alt="Volume Control" width="711" height="400"><br>
  <figcaption>Dynamic Gestures for Volume control. The rate of increase/decrease of volume is proportional to the distance moved by pinch gesture from start point. </figcaption>
 </details>
