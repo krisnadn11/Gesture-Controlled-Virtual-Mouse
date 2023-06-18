@@ -11,7 +11,7 @@ Mata Kuliah: Visi Komputer
 # Inovasi Gesture Controlled Virtual Mouse: Mengoptimalkan Interaksi Manusia dengan Komputer melalui Gerakan Tangan. 
 Gesture Controlled Virtual Mouse adalah sebuah solusi yang dirancang untuk mempermudah interaksi antara manusia dengan komputer melalui penggunaan gerakan tangan. Dengan menggunakan teknologi ini, komputer dapat dikendalikan secara virtual tanpa perlu kontak langsung. Semua operasi input/output dapat dikontrol melalui gerakan tangan statis dan dinamis.
 
-Proyek ini menggunakan algoritme Machine Learning dan Computer Vision yang canggih untuk mengenali gerakan tangan. Algoritme ini bekerja dengan baik tanpa memerlukan perangkat keras tambahan. Salah satu model yang digunakan adalah Convolutional Neural Network (CNN) yang diimplementasikan oleh MediaPipe. Proyek ini saya buat untuk memnuhi tugas Mata Kuliah Visi Komputer.
+Proyek ini menggunakan algoritme Machine Learning dan Computer Vision yang canggih untuk mengenali gerakan tangan. Algoritme ini bekerja dengan baik tanpa memerlukan perangkat keras tambahan. Salah satu model yang digunakan adalah Convolutional Neural Network (CNN) yang diimplementasikan oleh MediaPipe. Proyek ini, saya buat untuk memenuhi tugas Mata Kuliah Visi Komputer.
 
 # Fitur
 _Klik dropdown untuk melihat fitur pada proyek yang telah saya buat_ <br>
