@@ -10,7 +10,7 @@ Gesture Controlled Virtual Mouse adalah sebuah solusi yang dirancang untuk mempe
 Proyek ini menggunakan algoritme Machine Learning dan Computer Vision yang canggih untuk mengenali gerakan tangan. Algoritme ini bekerja dengan baik tanpa memerlukan perangkat keras tambahan. Salah satu model yang digunakan adalah Convolutional Neural Network (CNN) yang diimplementasikan oleh MediaPipe. Proyek ini saya buat untuk memnuhi tugas Mata Kuliah Visi Komputer.
 
 # Fitur
-_Klik dropdown untuk melihat fitur pada proyek ini_ <br>
+_Klik dropdown untuk melihat fitur pada proyek yang telah saya buat_ <br>
 
 ### Pengenalan Gerakan
 <details>
@@ -82,52 +82,28 @@ _Klik dropdown untuk melihat fitur pada proyek ini_ <br>
 Piton: (3.6 - 3.8.5)<br>
 Distribusi Anaconda: Untuk mengunduh, klik [ di sini ](https://www.anaconda.com/products/individual).
 
+Unduh dan ekstrak folder yang bernama Virtual-Mouse.
+Dan kemudian Buka Folder Virtual-Mouse di VsCode.
+
 ### Langkah-langkah
-```bash
-  git clone https://github.com/xenon-19/Gesture-Controlled-Virtual-Mouse.git
-  ```
-  For detailed information about cloning visit [here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository).
-  
-  Step 1: 
+
+  Langkah 1:
   ```bash
   conda create --name gest python=3.8.5
   ```
   
-  Step 2:
+  Langkah 2:
   ```bash
-  conda activate gest
+  conda mengaktifkan gest
   ```
   
-  Step 3:
+  Langkah 3:  
   ```bash
-  pip install -r requirements.txt
+  pip instal -r persyaratan.txt
   ```
   
-  Step 4:
-  ```bash 
-  conda install PyAudio
-  ```
-  ```bash 
-  conda install pywin32
-  ```
-  
-  Step 5:
-  ``` 
-  cd to the GitHub Repo till src folder
-  ```
-  Command may look like: `cd C:\Users\.....\Gesture-Controlled-Virtual-Mouse\src`
-  
-  Step 6:
-  
-  For running Voice Assistant:
-  ```bash 
-  python Proton.py
-  ```
-  ( You can enable Gesture Recognition by using the command "Proton Launch Gesture Recognition" )
-  
-  Or to run only Gesture Recognition without the voice assisstant:
-  
-  Uncomment last 2 lines of Code in the file `Gesture_Controller.py`
-  ```bash 
-  python Gesture_Controller.py
+  Langkah 4:
+  cd ke src oleh cd src
+  ```bash
+  python Virtual_Mouse.py
   ```
