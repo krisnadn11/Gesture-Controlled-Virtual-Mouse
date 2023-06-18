@@ -17,7 +17,7 @@ _Klik dropdown untuk melihat fitur pada proyek yang telah saya buat_ <br>
 
 ### Pengenalan Gerakan
 <details>
-<summary>Neutral Gesture</summary>
+<summary>Gerakan Netral</summary>
  <figure>
   <img src="https://github.com/xenon-19/Gesture_Controller/blob/9be82cfc75aa4c04fff0e12dd4de853f9d83a101/demo_media/palm.gif" alt="Palm" width="711" height="400"><br>
   <figcaption>Neutral Gesture. Used to halt/stop execution of current gesture.</figcaption>
@@ -26,55 +26,55 @@ _Klik dropdown untuk melihat fitur pada proyek yang telah saya buat_ <br>
  
 
 <details>
-<summary>Move Cursor</summary>
+<summary>Memindahkan Kursor</summary>
   <img src="https://github.com/xenon-19/Gesture_Controller/blob/e20edfb1f368ffa600d96bd91031942ec97cb2ab/demo_media/move%20mouse.gif" alt="Move Cursor" width="711" height="400"><br>
   <figcaption>Cursor is assigned to the midpoint of index and middle fingertips. This gesture moves the cursor to the desired location. Speed of the cursor movement is proportional to the speed of hand.</figcaption>
 </details>
 
 <details>
-<summary>Left Click</summary>
+<summary>Klik Kiri</summary>
 <img src="https://github.com/xenon-19/Gesture_Controller/blob/9be82cfc75aa4c04fff0e12dd4de853f9d83a101/demo_media/left%20click.gif" alt="Left Click" width="711" height="400"><br>
  <figcaption>Gesture for single left click</figcaption>
 </details>
 
 <details>
-<summary>Right Click</summary>
+<summary>Klik Kanan</summary>
 <img src="https://github.com/xenon-19/Gesture_Controller/blob/9be82cfc75aa4c04fff0e12dd4de853f9d83a101/demo_media/right%20click.gif" alt="Right Click" width="711" height="400"><br>
  <figcaption>Gesture for single right click</figcaption>
 </details>
 
 <details>
-<summary>Double Click</summary>
+<summary>Klik 2x</summary>
 <img src="https://github.com/xenon-19/Gesture_Controller/blob/9be82cfc75aa4c04fff0e12dd4de853f9d83a101/demo_media/double%20click.gif" alt="Double Click" width="711" height="400"><br>
  <figcaption>Gesture for double click</figcaption>
 </details>
 
 <details>
-<summary>Scrolling</summary>
+<summary>Menggulir</summary>
 <img src="https://github.com/xenon-19/Gesture_Controller/blob/9be82cfc75aa4c04fff0e12dd4de853f9d83a101/demo_media/Scrolling.gif" alt="Scrolling" width="711" height="400"><br>
  <figcaption>Dynamic Gestures for horizontal and vertical scroll. The speed of scroll is proportional to the distance moved by pinch gesture from start point. Vertical and Horizontal scrolls are controlled by vertical and horizontal pinch movements respectively.</figcaption>
 </details>
 
 <details>
-<summary>Drag and Drop</summary>
+<summary>Seret dan Lepas</summary>
 <img src="https://github.com/xenon-19/Gesture_Controller/blob/9be82cfc75aa4c04fff0e12dd4de853f9d83a101/demo_media/drag%20and%20drop.gif" alt="Drag and Drop" width="711" height="400"><br>
  <figcaption>Gesture for drag and drop functionality. Can be used to move/tranfer files from one directory to other.</figcaption>
 </details>
 
 <details>
-<summary>Multiple Item Selection</summary>
+<summary>Memilih Beberapa Item</summary>
 <img src="https://github.com/xenon-19/Gesture_Controller/blob/9be82cfc75aa4c04fff0e12dd4de853f9d83a101/demo_media/multiple%20item%20selection.gif" alt="Multiple Item Selection" width="711" height="400"><br>
  <figcaption>Gesture to select multiple items</figcaption>
 </details>
 
 <details>
-<summary>Volume Control</summary>
+<summary>kontrol Volume</summary>
 <img src="https://github.com/xenon-19/Gesture_Controller/blob/9be82cfc75aa4c04fff0e12dd4de853f9d83a101/demo_media/Volume%20control.gif" alt="Volume Control" width="711" height="400"><br>
  <figcaption>Dynamic Gestures for Volume control. The rate of increase/decrease of volume is proportional to the distance moved by pinch gesture from start point. </figcaption>
 </details>
 
 <details>
-<summary>Brightness Control</summary>
+<summary>Kontrol Kecerahan Layar</summary>
 <img src="https://github.com/xenon-19/Gesture_Controller/blob/9be82cfc75aa4c04fff0e12dd4de853f9d83a101/demo_media/Brigntness%20Control.gif" alt="Brightness Control" width="711" height="400"><br>
  <figcaption>Dynamic Gestures for Brightness control. The rate of increase/decrease of brightness is proportional to the distance moved by pinch gesture from start point. </figcaption>
 </details>
@@ -85,8 +85,7 @@ _Klik dropdown untuk melihat fitur pada proyek yang telah saya buat_ <br>
 Python: (3.6 - 3.8.5)<br>
 Distribusi Anaconda: Untuk mengunduh, klik [ di sini ](https://www.anaconda.com/products/individual).
 
-Unduh dan ekstrak folder yang bernama Virtual-Mouse.
-Dan kemudian Buka Folder Virtual-Mouse di VsCode.
+Unduh dan ekstrak folder yang bernama Virtual-Mouse-main, kemudian buka folder tersebut di VsCode, buka terminal dan pastikan terkonfigurasi dengan PowerShell bukan Command Prompt
 
 ### Langkah-langkah
 
