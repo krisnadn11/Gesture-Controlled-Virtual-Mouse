@@ -25,55 +25,55 @@ _Klik dropdown untuk melihat fitur pada proyek yang telah saya buat_ <br>
  
 <details>
 <summary>Memindahkan Kursor</summary>
-  <img src="https://github.com/krisnadn11/Gesture-Controlled-Virtual-Mouse/blob/main/Demo%20Proyek%20Visi%20Komputer/Memindahkan%20Kursor.gif" alt="Memindahkan Kursor" width="711" height="400"><br>
+  <img src="https://github.com/krisnadn11/Gesture-Controlled-Virtual-Mouse/blob/main/Demo%20Proyek%20Visi%20Komputer/Memindahkan%20Kursor.gif" alt="Memindahkan Kursor" width="771" height="400"><br>
   <figcaption>Kursor ditetapkan ke titik tengah telunjuk dan ujung jari tengah. Gerakan ini memindahkan kursor ke lokasi yang diinginkan. Kecepatan gerakan kursor kurang lebih sebanding dengan kecepatan tangan.</figcaption>
 </details>
 
 <details>
 <summary>Klik Kiri</summary>
-<img src="https://github.com/krisnadn11/Gesture-Controlled-Virtual-Mouse/blob/main/Demo%20Proyek%20Visi%20Komputer/Klik%20Kiri.gif" alt="Klik Kiri" width="711" height="400"><br>
+<img src="https://github.com/krisnadn11/Gesture-Controlled-Virtual-Mouse/blob/main/Demo%20Proyek%20Visi%20Komputer/Klik%20Kiri.gif" alt="Klik Kiri" width="771" height="400"><br>
  <figcaption>Gerakan untuk sekali klik kiri</figcaption>
 </details>
 
 <details>
 <summary>Klik Kanan</summary>
-<img src="https://github.com/krisnadn11/Gesture-Controlled-Virtual-Mouse/blob/main/Demo%20Proyek%20Visi%20Komputer/Klik%20Kanan.gif" alt="Klik Kanan" width="711" height="400"><br>
+<img src="https://github.com/krisnadn11/Gesture-Controlled-Virtual-Mouse/blob/main/Demo%20Proyek%20Visi%20Komputer/Klik%20Kanan.gif" alt="Klik Kanan" width="771" height="400"><br>
  <figcaption>Gerakan untuk sekali klik kanan</figcaption>
 </details>
 
 <details>
 <summary>Klik 2x</summary>
-<img src="https://github.com/krisnadn11/Gesture-Controlled-Virtual-Mouse/blob/main/Demo%20Proyek%20Visi%20Komputer/Klik%202x.gif" alt="Klik 2x" width="711" height="400"><br>
+<img src="https://github.com/krisnadn11/Gesture-Controlled-Virtual-Mouse/blob/main/Demo%20Proyek%20Visi%20Komputer/Klik%202x.gif" alt="Klik 2x" width="771" height="400"><br>
  <figcaption>Gerakan untuk klik kiri 2x</figcaption>
 </details>
 
 <details>
 <summary>Seret dan Lepas V1</summary>
-<img src="https://github.com/krisnadn11/Gesture-Controlled-Virtual-Mouse/blob/main/Demo%20Proyek%20Visi%20Komputer/Seret%20dan%20Lepas%20V1.gif" alt="Seret dan Lepas V1" width="711" height="400"><br>
+<img src="https://github.com/krisnadn11/Gesture-Controlled-Virtual-Mouse/blob/main/Demo%20Proyek%20Visi%20Komputer/Seret%20dan%20Lepas%20V1.gif" alt="Seret dan Lepas V1" width="771" height="400"><br>
  <figcaption>Gerakan fungsional untuk seret dan lepas. Dapat digunakan dalam menyeret/memindahkan file dari satu folder ke folder lainnya</figcaption>
 </details>
 
 <details>
 <summary>Seret dan Lepas V2</summary>
-<img src="https://github.com/krisnadn11/Gesture-Controlled-Virtual-Mouse/blob/main/Demo%20Proyek%20Visi%20Komputer/Seret%20dan%20Lepas%20V2.gif" alt="Seret dan Lepas V2" width="711" height="400"><br>
+<img src="https://github.com/krisnadn11/Gesture-Controlled-Virtual-Mouse/blob/main/Demo%20Proyek%20Visi%20Komputer/Seret%20dan%20Lepas%20V2.gif" alt="Seret dan Lepas V2" width="771" height="400"><br>
  <figcaption>Tidak jauh beda seperti gerakan sebelumnya, namun gerakan ini lebih mudah saat dipraktikan.</figcaption>
 </details>
 
 <details>
 <summary>Memilih Beberapa Item</summary>
-<img src="https://github.com/krisnadn11/Gesture-Controlled-Virtual-Mouse/blob/main/Demo%20Proyek%20Visi%20Komputer/Memilih%20Beberapa%20File.gif" alt="Memilih Beberapa File" width="711" height="400"><br>
+<img src="https://github.com/krisnadn11/Gesture-Controlled-Virtual-Mouse/blob/main/Demo%20Proyek%20Visi%20Komputer/Memilih%20Beberapa%20File.gif" alt="Memilih Beberapa File" width="771" height="400"><br>
  <figcaption>Gerakan untuk memilih beberapa file</figcaption>
 </details>
 
 <details>
 <summary>Kontrol Volume</summary>
-<img src="https://github.com/krisnadn11/Gesture-Controlled-Virtual-Mouse/blob/main/Demo%20Proyek%20Visi%20Komputer/Kontrol%20Volume.gif" alt="Kontrol Volume" width="711" height="400"><br>
+<img src="https://github.com/krisnadn11/Gesture-Controlled-Virtual-Mouse/blob/main/Demo%20Proyek%20Visi%20Komputer/Kontrol%20Volume.gif" alt="Kontrol Volume" width="771" height="400"><br>
  <figcaption>Gerakan Dinamis untuk kontrol Volume. Laju kenaikan/penurunan volume sebanding dengan jarak yang dipindahkan oleh gerakan mencubit dari titik awal. </figcaption>
 </details>
 
 <details>
 <summary>Kontrol Kecerahan Layar</summary>
-<img src="https://github.com/krisnadn11/Gesture-Controlled-Virtual-Mouse/blob/main/Demo%20Proyek%20Visi%20Komputer/Kontrol%20Kecerahan%20Layar.gif" alt="Kontrol Kecerahan Layar" width="711" height="400"><br>
+<img src="https://github.com/krisnadn11/Gesture-Controlled-Virtual-Mouse/blob/main/Demo%20Proyek%20Visi%20Komputer/Kontrol%20Kecerahan%20Layar.gif" alt="Kontrol Kecerahan Layar" width="771" height="400"><br>
  <figcaption>Gerakan Dinamis untuk kontrol Kecerahan. Laju peningkatan/penurunan kecerahan sebanding dengan jarak yang dipindahkan oleh gerakan mencubit dari titik awal. </figcaption>
 </details>
 
