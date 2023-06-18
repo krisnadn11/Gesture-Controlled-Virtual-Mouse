@@ -94,16 +94,17 @@ Dan kemudian Buka Folder Virtual-Mouse di VsCode.
   
   Langkah 2:
   ```bash
-  conda mengaktifkan gest
+  conda activate gest
   ```
   
   Langkah 3:  
   ```bash
-  pip instal -r persyaratan.txt
+  pip install -r requirements.txt
   ```
   
   Langkah 4:
-  cd ke src oleh cd src
-  ```bash
+  cd ke src menggunakan code: cd src
+  Perintah mungkin terlihat seperti: `cd C:\Users\.....\Virtual-Mouse\src>
+  ```bash 
   python Virtual_Mouse.py
   ```
