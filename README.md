@@ -1,4 +1,4 @@
-# Mouse Virtual Krisnadn &nbsp;[![](https://img.shields.io/badge/python-3.8.5-blue.svg)](https://www.python.org/downloads/) [![platform](https://img.shields.io/badge/platform-windows-green.svg)](https://github.com/xenon-19/Gesture_Controller) 
+# Mouse Virtual Krisnadn &nbsp;[![](https://img.shields.io/badge/python-3.8.5-blue.svg)](https://www.python.org/downloads/) [![platform](https://img.shields.io/badge/platform-windows-green.svg)](https://github.com/krisnadn11/Gesture-Controlled-Virtual-Mouse) 
 
 Nama: Krisna Dwi Nurikhsani
 
@@ -19,10 +19,10 @@ _Klik dropdown untuk melihat fitur pada proyek yang telah saya buat_ <br>
 ### Pengenalan Gerakan
 <details>
 <summary>Gerakan Netral</summary>
- <figure>
-  <img src="https://github.com/krisnadn11/Gesture-Controlled-Virtual-Mouse/blob/main/Demo%20Proyek/Gerakan%20Netral.PNG" alt="Gerakan Netral" width="639" height="478"><br>
+
+  <img src="https://github.com/krisnadn11/Gesture-Controlled-Virtual-Mouse/blob/main/Demo%20Proyek/Gerakan%20Netral.PNG" alt="Gerakan Netral" width="771" height="400"><br>
   <figcaption>Neutral Gesture. Used to halt/stop execution of current gesture.</figcaption>
-</figure>
+
 </details>
  
 
